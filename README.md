@@ -2,7 +2,7 @@ Full Stack Freelancer with 20+ years of experience in multiple areas of Web Deve
 
 ## CONTACT ME
 WhatsApp or Phone (Panama)
-## <code style="color:red;">+507 6589-2372</code>
+## <code style="color:red;">+507 6921-8234</code>
 
 ## Website and Blog
 
