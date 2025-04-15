@@ -4,14 +4,12 @@ Full Stack Freelancer with 20+ years of experience in multiple areas of Web Deve
 WhatsApp or Phone (Panama)
 ## <code style="color:red;">+507 6921-8234</code>
 
-## Website and Blog
+## Website
 
-- https://simonkoehler.com/
-- https://blog.simonkoehler.com/
+- https://kohlercode.com/
 
 ## Social Media
 
-- https://www.linkedin.com/in/koehlersimon/
 - https://www.instagram.com/fullstackfreelancer
 
 ## TYPO3 Projects
