@@ -12,11 +12,14 @@ WhatsApp or Phone (Panama)
 
 - https://www.instagram.com/fullstackfreelancer
 
-## TYPO3 Projects
+## My TYPO3 Extensions
 
+- https://extensions.typo3.org/extension/showcase
+- https://extensions.typo3.org/extension/faicon
 - https://extensions.typo3.org/extension/slug
 - https://extensions.typo3.org/extension/ce_timeline
+- https://extensions.typo3.org/extension/ce_counter
 
-## If you want to buy me some coffee with PayPal
+## Open Source Developers are poor ;-) Please support!
 
 - https://www.paypal.com/paypalme/fullstackfreelancer/
