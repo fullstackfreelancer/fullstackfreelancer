@@ -13,6 +13,7 @@ WhatsApp or Phone (Panama)
 - https://www.linkedin.com/in/koehlersimon/
 - https://www.youtube.com/@kohlercode
 - https://www.instagram.com/fullstackfreelancer
+- https://x.com/koehlersimon
 
 ## My TYPO3 Extensions
 
