@@ -10,6 +10,8 @@ WhatsApp or Phone (Panama)
 
 ## Social Media
 
+- https://www.linkedin.com/in/koehlersimon/
+- https://www.youtube.com/@kohlercode
 - https://www.instagram.com/fullstackfreelancer
 
 ## My TYPO3 Extensions
