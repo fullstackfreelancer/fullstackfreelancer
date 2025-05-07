@@ -23,6 +23,6 @@ WhatsApp or Phone (Panama)
 - https://extensions.typo3.org/extension/ce_timeline
 - https://extensions.typo3.org/extension/ce_counter
 
-## Open Source Developers are poor ;-) Please support!
+## Please consider supporting Open Source development!
 
-- https://www.paypal.com/paypalme/fullstackfreelancer/
+- [https://www.paypal.com/paypalme/fullstackfreelancer/](https://kohlercode.com/donate)
