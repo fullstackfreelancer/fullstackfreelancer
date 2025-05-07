@@ -25,4 +25,4 @@ WhatsApp or Phone (Panama)
 
 ## Please consider supporting Open Source development!
 
-- [https://www.paypal.com/paypalme/fullstackfreelancer/](https://kohlercode.com/donate)
+- [https://kohlercode.com/donate](https://kohlercode.com/donate)
