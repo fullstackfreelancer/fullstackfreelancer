@@ -23,6 +23,13 @@ WhatsApp or Phone (Panama)
 - https://extensions.typo3.org/extension/ce_timeline
 - https://extensions.typo3.org/extension/ce_counter
 
+## Skills
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,js,html,mysql,bootstrap,wordpress,ps,blender" />
+</a>
+
+
 ## Please consider supporting Open Source development!
 
 - [https://kohlercode.com/donate](https://kohlercode.com/donate)
