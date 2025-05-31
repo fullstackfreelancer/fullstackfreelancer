@@ -17,6 +17,7 @@ WhatsApp or Phone (Panama)
 
 ## My TYPO3 Extensions
 
+- https://extensions.typo3.org/extension/content_blocks_bootstrap
 - https://extensions.typo3.org/extension/showcase
 - https://extensions.typo3.org/extension/faicon
 - https://extensions.typo3.org/extension/slug
